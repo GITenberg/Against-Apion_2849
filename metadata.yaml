@@ -1,0 +1,41 @@
+_repo: Against-Apion_2849
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Whiston, William
+    birthdate: 1667
+    deathdate: 1752
+    gutenberg_agent_id: '1051'
+    url: http://www.gutenberg.org/2009/agents/1051
+    wikipedia: http://en.wikipedia.org/wiki/William_Whiston
+creator:
+  author:
+    agent_name: Josephus, Flavius
+    birthdate: 37
+    gutenberg_agent_id: '1050'
+    url: http://www.gutenberg.org/2009/agents/1050
+    wikipedia: http://en.wikipedia.org/wiki/Josephus
+description: This volume contains a fresh English translation of Josephus' apologetic
+  treatise 'Against Apion', based on the new textual research conducted by the Münster
+  Josephus project. It also provides the first English commentary on this treatise,
+  with comprehensive treatment of the historical, literary, and rhetorical features
+  of Josephus' most engaging literary product. 'Against Apion' contains the most important
+  evidence for hostility to Judeans in antiquity, as Josephus responds to both Egyptian
+  and Hellenistic slurs on the Judean people, their origins and character. Josephus'
+  robust defense of his people, with his striking account of the Judean constitution
+  ("theocracy"), also constitutes the finest example of Judean apologetics from antiquity.
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2849'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BM'
+- !lcsh 'Judaism -- Apologetic works'
+- GITenberg
+title: Against Apion
+url: http://www.gutenberg.org/ebooks/2849
